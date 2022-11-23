@@ -1,0 +1,4 @@
+class c: class a, class b{} 
+---> if class A inherited virtually then A is called first
+---> if class B is inherited virtually then B gets priority
+----> if both are virtual/non-virtual same pattern is followed as declared during inheritance, i.e., first A then B is called

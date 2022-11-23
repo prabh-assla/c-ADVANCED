@@ -1,0 +1,16 @@
+//find
+//insert
+//replace
+//at
+//substr
+//compare
+//erase
+//find_first_of
+//find_first_not_of
+//size
+//length
+//capacity
+//resize
+
+//protected data members are accessible to only one level for the derived classes
+//fn overriding due to same name in derived as well as base class

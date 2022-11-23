@@ -1,0 +1,20 @@
+advantages :
+=> reducing code redundancy
+=> modular
+=> abstraction
+
+void fruits() = void fruits(void)
+
+Overloading can be done in ->
+1. methods
+2. constructors
+3. indexed properties
+possible as these have parameters only!
+
+Types of Overloading ->
+fn & operator
+
+CAUSES OF FN OVERLOADING ->
+--> type conversion
+--> function with default arguments
+--> function with pass by reference

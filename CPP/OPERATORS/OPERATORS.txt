@@ -1,0 +1,3 @@
+* : dereference
+?: : ternery conditional
+sizeof : returns [[[[ unsigned integral type (size_t) ]]]]

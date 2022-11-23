@@ -1,0 +1,7 @@
+ios::in -> input
+ios::out -> output
+ios::app -> append
+ios::ate -> append + can change some info too
+ios::trunc -> delete + start writing from 1st byte
+ios::nocreate -> no file present then it won't be opened automatically
+ios::binary -> retains the given data as binary

@@ -1,0 +1,4 @@
+get --> MAX, terminating character
+getline
+
+String built in already class
